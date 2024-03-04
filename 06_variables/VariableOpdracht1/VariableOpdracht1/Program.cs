@@ -8,6 +8,10 @@ namespace VariableOpdracht1
         {
             Console.WriteLine("Hello, World!");
 
+            string name = "Celine";
+            int hp = 100;
+            int str = 50;
+
             //maak hier 3 local variables aan:
             //1 type=string, naam: name, waarde je favoriete rpg character
             //2 type=int, naam: hp, een waarde van hoeveel health dit character heeft
