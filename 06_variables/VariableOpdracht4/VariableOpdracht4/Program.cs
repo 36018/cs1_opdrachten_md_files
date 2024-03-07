@@ -10,9 +10,10 @@ namespace VariableOpdracht4
 
             //maak een variable die constant is
             //vergeet het type niet!
-
-            ???? helloWorldConstante = "Hello world!";
-            Console.WriteLine(????);
+            const string constantvariable = "Ik ben constant";
+            Console.WriteLine(constantvariable);
+            const string helloWorldConstante = "Hello world!";
+            Console.WriteLine(helloWorldConstante);
 
         }
     }
